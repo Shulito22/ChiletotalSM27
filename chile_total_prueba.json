@@ -1,10 +1,13 @@
-
 {
+  "PlayerData": [],
+  "ClubData": [],
   "LeagueData": [
     {
-      "ID": 17,
-      "Name": "Liga de Primera Chile"
+      "ID": 28,
+      "Name": "Chile Total Prueba"
     }
-  ]
+  ],
+  "CupData": [],
+  "StadiumData": []
 }
   
